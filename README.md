@@ -11,7 +11,7 @@ Currently looking for **Helpdesk / Tier 1 IT support** roles.
 - Windows 10 automated deployment pipeline using WDS, Sysprep, and PXE boot
 
 ## 💼 Skills
-Windows Server · Linux · Networking · Hyper-V · Active Directory · pfSense · WDS · PowerShell
+Windows Server · Linux · Networking · Hyper-V · Active Directory · pfSense · WDS · PowerShell · Jamf · MDM/ABM · Zendesk · Microsoft 365 · CompTIA Network+ · CompTIA Security+ · iSCSI · Failover Clustering · VPN (IPsec/OpenVPN) · DNS · DHCP · macOS · iOS · RDP
 
 ## 📂 Portfolio
 👉 [View my full project portfolio here](https://github.com/satomi-tech/portfolio)
