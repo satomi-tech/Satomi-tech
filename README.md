@@ -9,6 +9,7 @@ Currently looking for **Helpdesk / Tier 1 IT support** roles.
 - Multi-site domain with IPsec VPN tunnel and AD replication across two sites
 - Two-server mail system with Postfix, Dovecot, and SquirrelMail on CentOS 7
 - Windows 10 automated deployment pipeline using WDS, Sysprep, and PXE boot
+- Multi-domain environment with child domain, RRAS routing, DHCP, and centralized RSAT management
 
 ## 💼 Skills
 Windows Server 2022/ 2025  · Windows 10/ 11 · Linux · Networking · Hyper-V · Active Directory · pfSense · WDS · PowerShell · Jamf · MDM/ABM · Zendesk · Microsoft 365 · CompTIA Network+ · CompTIA Security+ · iSCSI · Failover Clustering · VPN (IPsec/OpenVPN) · DNS · DHCP · macOS · iOS · RDP · RRAS (Routing & Remote Access) · RSAT · Windows ADK / Sysprep · Subnetting · Group Policy (GPO) · Exchange · ITIL Foundations
