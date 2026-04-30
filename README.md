@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Satomi 👋
 
-<!--
-**satomi-tech/Satomi-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT infrastructure student based in Vancouver, Canada.
+I learn best by doing, and I enjoy making complex systems visually clear.
+Currently looking for **Helpdesk / Tier 1 IT support** roles.
 
-Here are some ideas to get you started:
+## 🛠️ What I've built
+- Enterprise network infrastructure with Hyper-V, pfSense, Active Directory, iSCSI, and Live Migration
+- Multi-site domain with IPsec VPN tunnel and AD replication across two sites
+- Two-server mail system with Postfix, Dovecot, and SquirrelMail on CentOS 7
+- Windows 10 automated deployment pipeline using WDS, Sysprep, and PXE boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Skills
+Windows Server · Linux · Networking · Hyper-V · Active Directory · pfSense · WDS · PowerShell
+
+## 📂 Portfolio
+👉 [View my full project portfolio here](https://github.com/satomi-tech/portfolio)
